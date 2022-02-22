@@ -1,4 +1,4 @@
-# AutoCheck in/out-EntWeWork
+# WeWorkAutoCheck in/out
 ``` 基于 Auto.js 的企业微信自动打卡功能实现 ```    
 更新日期：2022-01-28
 
